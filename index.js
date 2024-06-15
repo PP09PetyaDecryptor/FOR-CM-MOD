@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["CM is Cheap Members"];
+const statusMessages = ["😊dsc.gg/meyshie-fm"];
 
 
 let currentIndex = 0;
